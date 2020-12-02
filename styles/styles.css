@@ -1,3 +1,17 @@
-p{color:yellow}
+p{color:darkkhaki}
 
-body{background-color:gray}
+body{
+    background-image:url(../images/go.png);
+    background-attachment:fixed;
+    background-position:top
+}
+#header{
+    width:960px;
+    height:2000px;
+    background-color:darkgray;
+    margin:auto
+}
+div{
+    background-color:blue
+}
+

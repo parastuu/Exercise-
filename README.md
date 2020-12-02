@@ -1,2 +1,0 @@
-# Exercise in this directory
--
